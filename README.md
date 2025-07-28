@@ -1,50 +1,45 @@
+<!-- Profile Header with Animated SVG and Emojis -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+ulasdesouza;AI+Enthusiast;Deep+Learning+Developer;ML+Researcher;Computer+Vision+Explorer" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=F59E42&center=true&vCenter=true&width=600&lines=Hi+My+name+is+ulasdesouza+👋;Welcome+to+my+GitHub+profile!;I+love+coding+and+creating+amazing+things" alt="" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/ulasdesouza24/ulasdesouza24/assets/your-github-userid/animated-banner.gif" width="500" alt="Innovative AI Banner"/>
+</p>
+
+---
+
+<h3 align="center">🚀 <b>Innovator in AI & Deep Learning</b> 🚀</h3>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,r,aws,docker,kubernetes,githubactions,opencv,pytorch,tensorflow,keras,huggingface" />
 </div>
 
 ---
 
 ### 🧠 **Areas of Expertise**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Deep Learning-0A0A0A?style=for-the-badge&logo=deepscan&logoColor=00C7B7" />
-  <img src="https://img.shields.io/badge/Large Language Models-FFD700?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/Computer Vision-4B0082?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI Agents-228B22?style=for-the-badge&logo=atom&logoColor=white" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Deep%20Learning-0A0A0A?style=for-the-badge&logo=deepscan&logoColor=00C7B7" /><br>
+      <sub>Deep Learning</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/LLMs-FFD700?style=for-the-badge&logo=openai&logoColor=black" /><br>
+      <sub>Large Language Models</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Computer%20Vision-4B0082?style=for-the-badge&logo=opencv&logoColor=white" /><br>
+      <sub>Computer Vision</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AI%20Agents-228B22?style=for-the-badge&logo=atom&logoColor=white" /><br>
+      <sub>AI Agents</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ **Tech Stack**
-
-```python
-class UlasDeSouza:
-    def __init__(self):
-        self.languages = ["Python", "C++", "JavaScript", "R"]
-        self.ml_frameworks = ["PyTorch", "TensorFlow", "Keras", "HuggingFace"]
-        self.vision_tools = ["OpenCV", "YOLO", "MediaPipe", "DALI"]
-        self.optimization = ["CUDA", "TensorRT", "ONNX", "OpenMP"]
-        self.data_tools = ["Pandas", "NumPy", "Dask", "Spark"]
-        self.dev_ops = ["Docker", "Kubernetes", "GitHub Actions", "AWS"]
-
-```
-📈 GitHub Stats
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ulasdesouza24&show_icons=true&theme=radical" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulasdesouza24&layout=compact&theme=radical" /> </p>
-
-
-### 🎯 **Current Focus**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="20"> Autonomous AI Agent Development<br><br>
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="20"> Transformer Model Optimization<br><br>
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="20"> Medical Image Analysis Research
-</p>
-
-
-
-📫 Let's Connect!
-<p align="center"> <a href="mailto:umet9711@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ulastaylano24/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/ulastaylano"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> </p>
+### 🛠️ **Tech Stack as Code**
